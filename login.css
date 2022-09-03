@@ -97,6 +97,9 @@
     top: -15px;
 }
 @media screen and (max-width: 920px){
+    #logo {
+        font-size: 19px;
+    }
     #login-box {
         width: 100%;
     }
