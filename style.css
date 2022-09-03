@@ -171,6 +171,7 @@
 @media screen and (max-width: 600px) {
     #logo {
         font-size: 19px;
+        width: 100%;
     }
     #principal {
         left: 5px;
