@@ -169,6 +169,12 @@
 }
 
 @media screen and (max-width: 600px) {
+    #panel {
+        height: 450px;
+    }
+    #box {
+        height: 250px;
+    }
     #logo {
         font-size: 19px;
         width: 100%;
